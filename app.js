@@ -62,6 +62,20 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 
         }
 
+         // How to use functions to correctly apply the DRY principle;
+        // How to think about the game logic like a programmer. 
+
+        document.querySelector('.btn-hold').addEventListener('click', function() {
+            // Add CURRENT score to GLOBAL score
+            score[activePlayer] += roundScore;
+            
+            // Update the UI
+            document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer]
+
+            // Check if player won the game
+
+        })
+
        
 });
 
