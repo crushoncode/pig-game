@@ -2,6 +2,8 @@
 
 ## This is a project created by Jonas Schmedtmann from The Complete JavaScript Course: Build a Real-World Project. 
 
+![result](result.png)
+
 ## GAME RULES:
 
 - The game has 2 players, playing in rounds
