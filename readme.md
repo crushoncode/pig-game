@@ -1,6 +1,6 @@
 # Pig Dice Game 
 
-# jspiggame.netlify.com
+# Hosted at https://jspiggame.netlify.com
 
 ## This is a project created by Jonas Schmedtmann from The Complete JavaScript Course: Build a Real-World Project. 
 
